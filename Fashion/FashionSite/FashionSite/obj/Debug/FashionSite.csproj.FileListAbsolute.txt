@@ -1,5 +1,0 @@
-E:\Fashion\FashionSite\FashionSite\bin\FashionSite.dll
-E:\Fashion\FashionSite\FashionSite\bin\FashionSite.pdb
-E:\Fashion\FashionSite\FashionSite\obj\Debug\FashionSite.csprojResolveAssemblyReference.cache
-E:\Fashion\FashionSite\FashionSite\obj\Debug\FashionSite.dll
-E:\Fashion\FashionSite\FashionSite\obj\Debug\FashionSite.pdb
